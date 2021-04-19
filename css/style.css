@@ -368,7 +368,7 @@ img {
 
 .banner-area{
     /*background-image: url(https://mourithemes.com/mason/mason/images/home/home-bg-2.jpeg); /*--edit image--*/
-    background-image: url(../img/aboutimg.jpeg); /*--edit image--*/
+    background-image: url(../img/bg.jpg); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;
